@@ -60,3 +60,5 @@ This repository has been verified with CircleCI
 ```sh
 * Please follow to steps of screenshot in Images-of-result-deploy folder
 ```
+
+[![CircleCI](https://circleci.com/gh/malassaad/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/malassaad/Operationalize-a-Machine-Learning-Microservice-API)

@@ -1,4 +1,4 @@
-
+[![CircleCI](https://circleci.com/gh/malassaad/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/malassaad/Operationalize-a-Machine-Learning-Microservice-API)
 
 # Project - Operationalize a Machine Learning Microservice API
 
